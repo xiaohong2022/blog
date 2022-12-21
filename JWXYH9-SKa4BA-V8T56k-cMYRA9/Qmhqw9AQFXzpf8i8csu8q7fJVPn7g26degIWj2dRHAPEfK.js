@@ -1,0 +1,1 @@
+location.href="https://xiaohong2022blog.flarum.cloud/"
